@@ -1,0 +1,6 @@
+Execute,feeType,freq,productGroup,feeBasis,volInclRate,waiveOnPastDue,waiveIfCancelled,minValue,maxValue,strCurrency,fuelNetwork,prodGroup,feeValue
+Yes_Pilipinas,Bonus Tier Incremental,Anniversary,Card related fees,Currency Per Unit,,0,0,-9999,9999,EURO,Shell PH,All Fuels,10
+Yes_Belgian,Bonus Tier Incremental,Anniversary,Card related fees,Currency Per Unit,,0,0,-9999,9999,EURO,Shell PH,All Fuels,10
+Yes_Nederland,Bonus Tier Incremental,Anniversary,Card related fees,Currency Per Unit,,0,0,-9999,9999,EURO,Shell PH,All Fuels,10
+Yes_Hong Kong,Bonus Tier Incremental,Anniversary,Card related fees,Currency Per Unit,,0,0,-9999,9999,EURO,Shell PH,All Fuels,10
+Yes_Thailand,Bonus Tier Incremental,Anniversary,Card related fees,Currency Per Unit,,0,0,-9999,9999,EURO,Shell PH,All Fuels,10

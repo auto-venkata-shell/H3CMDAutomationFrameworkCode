@@ -1,0 +1,6 @@
+Execute,feeType,freq,productGroup,feeBasis,volInclRate,waiveOnPastDue,waiveIfCancelled,minValue,maxValue,strCurrency,fuelNetwork,prodGroup,feeValue
+Yes_Pilipinas,Card Transaction Fee,Daily (all days),Card related fees,Lump Sum,,0,0,-9999,9999,EURO,Shell PH,All Fuels,10
+Yes_Belgian,Card Transaction Fee,Daily (all days),Card related fees,Lump Sum,,0,0,-9999,9999,EURO,Shell PH,All Fuels,10
+Yes_Nederland,Card Transaction Fee,Daily (all days),Card related fees,Lump Sum,,0,0,-9999,9999,EURO,Shell PH,All Fuels,10
+Yes_Hong Kong,Card Transaction Fee,Daily (all days),Card related fees,Lump Sum,,0,0,-9999,9999,EURO,Shell PH,All Fuels,10
+Yes_Thailand,Card Transaction Fee,Daily (all days),Card related fees,Lump Sum,,0,0,-9999,9999,EURO,Shell PH,All Fuels,10

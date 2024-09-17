@@ -1,0 +1,6 @@
+Execute,feeType,freq,productGroup,feeBasis,volInclRate,waiveOnPastDue,waiveIfCancelled,minValue,maxValue,strCurrency
+Yes_Pilipinas,ManualFee,,Card related fees,Lump Sum,,0,0,-9999,9999,EURO
+Yes_Belgian,ManualFee,,Card related fees,Lump Sum,,0,0,-9999,9999,EURO
+Yes_Nederland,ManualFee,,Card related fees,Lump Sum,,0,0,-9999,9999,EURO
+Yes_Hong Kong,ManualFee,,Card related fees,Lump Sum,,0,0,-9999,9999,EURO
+Yes_Thailand,ManualFee,,Card related fees,Lump Sum,,0,0,-9999,9999,EURO

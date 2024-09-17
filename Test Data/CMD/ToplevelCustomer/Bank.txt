@@ -1,0 +1,32 @@
+{
+"ColcoCode": "086",
+    "UserName": "AutomationTest1",
+"EntityTypeId": 5,
+"ExternalReference": "Bank01ph601363",
+"AccountNumber": "PH08601363",
+    "EntityBody": {
+"BankId": "1",
+"BankCode": "BOPI",
+"BankName": "Bank of the Philippine Islands",
+"BankTypeId": "1",
+        "BankAccountName": "AutomationTestAccountName",
+"DateEffective": "2024-03-01",
+"DateTerminated": "2024-03-12",
+        "BranchName": " ",
+"BankAccountNumber": "8475847549",
+"SortCode": "48754857",
+"IBAN": "",
+"SwiftCode": "587685",
+"CurrencyId": "12",
+        "AddressLine1": 186,
+        "AddressLine2": 11,
+        "AddressLine3": 11,
+        "City": "Sche",
+"RegionId": "1",
+        "PostalCode": "746444",
+"CountryId": "22",
+        "DOMNumber": "Rt5554",
+        "BankCIN": "TEST3846111",
+        "CorrespondentAccount": "CR001"
+    }
+}

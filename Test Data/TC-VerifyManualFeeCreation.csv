@@ -1,0 +1,7 @@
+Execute,Environment,Customer_ERP,Fee_Type,Fee_Rule,Quantity,Unit_Price,Manual_Fee_Text,Back_Date
+Yes_Indonesia,GFN,ID00000076,ManualFee,Late Payment Fee,2,15,Test Fee Rule 1,10/1/2021
+Yes_Pilipinas,GFN,ID00000076,ManualFee,Invoice Adjustment,2,15,Test Fee Rule 1,10/1/2021
+Yes_Belgian,GFN,ID00000076,ManualFee,Account Setup,2,15,Test Fee Rule 1,10/1/2021
+Yes_Nederland,GFN,ID00000076,ManualFee,Account Setup,2,15,Test Fee Rule 1,10/1/2021
+Yes_Hong Kong,GFN,ID00000076,Fee Adjustment,Late Payment Fee,2,15,Test Fee Rule 1,10/1/2021
+Yes_Thailand,GFN,ID00000076,Fee Adjustment,Late Payment Fee,2,15,Test Fee Rule 1,10/1/2021

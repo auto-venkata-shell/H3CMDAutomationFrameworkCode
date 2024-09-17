@@ -1,0 +1,42 @@
+{
+  
+  "MessageRequest": {
+   "UserName":"AutomationTest",
+    "UserCulture":"en_GB",
+"ColCoID": 1,
+    "RequestID":"00000001-0001-0001-0001-000000000001"
+  },
+"CustomerID": 1733,
+  "CardTypeID": 1,
+  "TokenTypeID":3,
+  "ExpiryDate": "",
+  "CardReissueTypeID": 1,
+  "PurchaseCategoryID": 3 ,
+  "OdometerPromptReqd": 324324,
+  "CustomerRefPromptReqd": true,
+  "ExternalReference": "string",
+
+  "CardCategory": {
+"CardCategoryID": 3,
+    "VehicleRegistration": "12345678",
+    "DriverName": "AUTO TEST",
+    "BearerDescription": "OPENTest5599",
+    "EmbossText": "embosstext",
+    "isVRNEmbossed": true,
+    "isDriverEmbossed": true,
+    "isBearerEmbossed": true,
+    "EmbossingID": 4
+  },
+  "PINTypeOptions": {
+"PINTypeID": 4,
+    "PINChangeAllowedByCardholder": true,
+    "EncryptedPIN": {
+      "SelfSelectedPINKeyID": "Autotest",
+      "SelfSelectedPINLibraryVersion":"Autotest",
+      "SelfSelectedPINSessionDetails": "Autotest",
+      "SelfSelectedEncryptedPIN": "Autotest"
+    }
+  },
+
+"PINAdviceType": 4
+}

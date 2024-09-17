@@ -1,0 +1,7 @@
+Execute,Environment,Customer_ERP,Bank_Type,Bank_Name,Bank_Address,City,Region,Post_Code,Sort_Code,Account_Number,DD_Authorizer_Name,BranchName
+Yes_Pilipinas,GFN,ID00000080,All Payments,#2,Test Automation add-Philippines,Philippines,Cavite,654321,123456,4.40034E+11,Test Auto 1,BR_001
+Yes_Belgian,GFN,ID00000080,All Payments,#2,Test Automation add-Belgian,Austria,Austria,654321,123456,4.40034E+11,Test Auto 1,BR_001
+Yes_Nederland,GFN,ID00000080,All Payments,#2,Test Automation add-Netherlands,Netherlands,Netherlands,654321,123456,4.40034E+11,Test Auto 1,BR_001
+Yes_Hong Kong,GFN,ID00000080,All Payments,#2,Test Automation add-Hong Kong,Hong Kong,Kowloon,654321,123456,4.40034E+11,Test Auto 1,BR_001
+Yes_Thailand,GFN,ID00000080,All Payments,#2,Test Automation add-Thailand,Thailand,Thailand,654321,123456,4.40034E+11,Test Auto 1,BR_001
+Yes_Eastern,GFN,ID00000080,All Payments,#2,Test Automation add-Singapore,Singapore,Singapore,654321,123456,4.40034E+11,Test Auto 1,BR_001v

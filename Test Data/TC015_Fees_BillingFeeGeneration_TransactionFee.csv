@@ -1,0 +1,7 @@
+Execute,strDateEff,feeType,customerERP_id,waiveOnPastDue,waiveIfCancelled,FeeTypeID
+Yes_Pilipinas,2022-01-01,Transaction Fee Gross,PH50001806,0,0,42
+Yes_Belgian,2022-01-01,Transaction Fee Gross,PH50001806,0,0,42
+Yes_Nederland,2022-01-01,Transaction Fee Gross,NL00000010,0,0,42
+Yes_Hong Kong,2022-01-01,Transaction Fee Gross,PH50001806,0,0,42
+Yes_Thailand,2022-01-01,Transaction Fee Gross,PH50001806,0,0,42
+

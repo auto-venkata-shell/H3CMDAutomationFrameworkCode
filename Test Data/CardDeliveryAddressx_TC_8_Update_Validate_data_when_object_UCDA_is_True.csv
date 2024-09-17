@@ -1,0 +1,2 @@
+Execute,inputfilepath,outputfilepath,CustVRN,CardType,EmbossType
+Yes,CardAddressjsonTrue.txt,CardAddressjsonoutput.txt,WB000001,Vehicle Card,Vehicle

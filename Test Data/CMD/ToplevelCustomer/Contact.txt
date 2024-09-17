@@ -1,0 +1,24 @@
+{
+"ColcoCode": "086",
+    "UserName": "AutomationTest1",
+"EntityTypeId": 7,
+"ExternalReference": "subcontact01ph601368",
+"AccountNumber": "PH08601368",
+    "EntityBody": {
+"ContactTypeId": [1],
+"IsPrimaryContact": true,
+"IsActive": true,
+"AddressId": "address02ph1368",
+"ContactTitleId": 1,
+"ContactPreferenceId": "1",
+"LanguageId": 8,
+"Forename": "AutomationFName",
+"MiddleName": "TestMName",
+"LastName": "ScriptLName",
+        "MobilePhone": "+9199444236",
+"EmailAddress": "CardDelType@gmail.com",
+        "Telephone": "+63450024659055",
+        "Fax": "+63458900266",
+        "Position": "Manager"
+    }
+}

@@ -1,0 +1,15 @@
+{
+"MessageRequest":{
+    "UserName":"TESTAUTO",
+    "UserCulture":"en_GB",
+    "ColCoID":1,
+    "RequestID":"00000001-0001-0001-0001-000000000001"
+ },
+ "CustomerID":1723,
+ "CardID":148747,
+ "PANID":null,
+ "CardPan":"7077861008251001972",
+ "ExpityDate":2608,
+ "PINAdviceTypeID" : 1,
+ "PINContactTypeID":2
+}

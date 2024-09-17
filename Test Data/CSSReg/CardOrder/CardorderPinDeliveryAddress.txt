@@ -1,0 +1,57 @@
+{
+  
+  "MessageRequest": {
+   "UserName":"AUTOMATION TEST",
+    "UserCulture":"en_GB",
+"ColCoID": 1,
+    "RequestID":"00000001-0001-0001-0001-000000000001"
+  },
+"CustomerID": 2882,
+"CardTypeID": 1,
+"TokenTypeID": 3,
+  "ExpiryDate": "",
+  "CardReissueTypeID": 1,
+  "PurchaseCategoryID": 3 ,
+  "OdometerPromptReqd": true,
+  "CustomerRefPromptReqd": true,
+  "ExternalReference": "string",
+
+  "CardCategory": {
+"CardCategoryID": 2,
+    "VehicleRegistration": "12345678",
+    "DriverName": "TEST AUTO",
+    "BearerDescription": "OPENNiki5599",
+    "EmbossText": "embosstext",
+    "isVRNEmbossed": true,
+    "isDriverEmbossed": true,
+    "isBearerEmbossed": true,
+"EmbossingID": 2
+  },
+  "PINTypeOptions": {
+"PINTypeID": 1,
+    "PINChangeAllowedByCardholder": false,
+    "EncryptedPIN": {
+      "SelfSelectedPINKeyID": "test",
+      "SelfSelectedPINLibraryVersion":"test",
+      "SelfSelectedPINSessionDetails": "test",
+      "SelfSelectedEncryptedPIN": "test"
+    }
+  },
+
+   
+  "DeliverPINToSpecificAddress": {
+    "PIN_ContactName": "AutoTEST",
+    "PIN_ContactTitle": "Mr",
+    "PIN_CompanyName": "Shell",
+    "PIN_AddressLine": "123",
+    "PIN_ZipCode": "110001",
+    "PIN_City": "Bangalore",
+    "PIN_RegionID": 2,
+    "PIN_CountryID": 22,
+    "PhoneNumber": "+3134453554",
+    "EmailAddress": "TestAutomation@Shell.com",
+    "UseCardContactDetails": false,
+    "SaveForPINReminder": true
+  },
+"PINAdviceType": 1
+}

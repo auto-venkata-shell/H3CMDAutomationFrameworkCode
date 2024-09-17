@@ -1,0 +1,24 @@
+{
+"ColcoCode": "086",
+    "UserName": "Automation.Test",
+"EntityTypeId": 7,
+"ExternalReference": "contact01ph601356",
+"AccountNumber": "PH08601356",
+    "EntityBody": {
+"ContactTypeId": [14,19],
+"IsPrimaryContact": true,
+"IsActive": true,
+"AddressId": "address01ph1356",
+"ContactTitleId": 1,
+"ContactPreferenceId": "1",
+"LanguageId": 8,
+"Forename": null,
+"MiddleName": null,
+"LastName": "ScriptLName",
+        "MobilePhone": "+9199444236",
+        "EmailAddress": "automationtest@gmail.com",
+        "Telephone": null,
+        "Fax": null,
+        "Position": "Manager"
+    }
+}

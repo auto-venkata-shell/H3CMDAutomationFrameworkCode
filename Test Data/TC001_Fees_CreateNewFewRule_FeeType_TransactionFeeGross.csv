@@ -1,0 +1,6 @@
+Execute,feeType,freq,productGroup,feeBasis,volInclRate,waiveOnPastDue,waiveIfCancelled,minValue,maxValue,strCurrency
+Yes_Pilipinas,
+Yes_Belgian,
+Yes_Nederland,Transaction Fee Gross,Daily (all days),Card related fees,Lump Sum,,0,0,-9999,9999,EURO
+Yes_Hong Kong,
+Yes_Thailand,

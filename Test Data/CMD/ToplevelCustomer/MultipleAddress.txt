@@ -1,0 +1,20 @@
+{
+    "ColcoCode": "086",
+    "UserName": "Nithya.Krishnasamy",
+    "EntityTypeId": 4,
+    "ExternalReference": "ayt0006029",
+    "AccountNumber": "PH5001026",
+    "EntityBody": {
+        "AddressTypeId": [2,3,4],
+        "AddressLine1": "1400 Quezon Avenue,",
+        "AddressLine2": "Barangay Holy Spirit,",
+        "AddressLine3": "Quezon",
+        "City": "Metro Manila",
+        "CountryId": 22,
+        "RegionId": 2,
+        "PostalCode": "1006",
+        "Telephone": "+63023720829",
+        "Fax": "+441619998888",
+        "IsActive": true
+    }
+}

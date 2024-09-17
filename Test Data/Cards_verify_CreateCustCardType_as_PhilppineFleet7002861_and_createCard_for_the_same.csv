@@ -1,0 +1,3 @@
+Execute,CardTypeName,TokenTypeval,EmbossingTypeval,PurchaseCategoryval,MinCardLife,MinReissuePeriod,ExpiryPeriod,EmbossingName,Cardcategoryval,CustVRN
+Yes,Philippines Fleet 7002861,PH FLE NAT SIN R1 - CHIP,Vehicle,2 - All Fuels Products and Lubricants,12,3,48,TEST AS 32,Vehicle Card,WB000001
+No,Philippines PARTNER 7018861,PH PARTNER CARD - CHIP,Driver,2 - All Fuels Products and Lubricants,12,3,48,TEST AS 32,Driver Card,ATEST DRIVER

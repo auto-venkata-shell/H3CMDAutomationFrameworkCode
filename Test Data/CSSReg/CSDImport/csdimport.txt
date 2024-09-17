@@ -1,0 +1,45 @@
+{
+  "CSDBatchImport": [
+    {
+      "IssuingCountry": "086",
+"SequenceNumber": 118,
+"RecordCount": 2,
+"FileCreationDate": "2023-11-29T19:09:50Z",
+           "CardSecurityData": [
+            {
+              "EventType": "C",
+"CardID": 152708,
+              "CardHSMData": [
+                {
+"PAN_ID": "16929924",
+                  "PVV": 1,
+                  "PVKi": 154,
+                  "CVKi": 181,
+                  "CVKi2": 201,
+                  "PINVersion": 1,
+"ReceivedDate": "2023-11-29T19:09:50Z"
+                }
+              ]
+            },
+            {
+              "EventType": "F",
+"CardID": 152708,
+              "CardFulfilmentData": [
+                {
+                  "RFID_UID": "5678456711167",
+                  "EMA_ID": "8888DFTY190497CVFL",
+                  "EVPrintedNumber": "36729045",
+"DispatchCompanyID": "1",
+                  "DispatchTrackingReference": "SNBT383908123567",
+                  "ActualProductionDate": "2023-04-09T15:30:43Z",
+"DispatchDate": "2023-12-01T19:09:50Z"
+                }
+              ]
+
+            }
+
+
+      ]
+    }
+  ]
+}

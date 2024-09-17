@@ -1,0 +1,16 @@
+{
+"ColcoCode": "086",
+    "UserName": "Automation.Test",
+"EntityTypeId": 3,
+"ExternalReference": "74_Rel_ph_601338",
+"AccountNumber": "PH08601349",
+    "EntityBody": {
+"TopLevelCustomerNumber": "PH08601348",
+"ParentCustomerNumber": "PH08601350",
+"PaymentCustomerNumber": "PH08601348",
+"InvoiceCustomerNumber": "PH08601348",
+"CardDeliveryCustomerNumber": "PH08601348",
+"PricingCustomerNumber": "PH08601348",
+"ContractCustomerNumber": "PH08601348"
+    }
+}

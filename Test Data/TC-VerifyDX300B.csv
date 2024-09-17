@@ -1,0 +1,2 @@
+Execute,CustERP,FilePath,FileType,GuarantType,GCurrency,GEDate,GDetails,GAdjustmentval
+Yes,ID00000126,\\AEWNW00235iis1.europe.shell.com\outbound\H3Sprint\1\DX300B,File,Bank Guarantee,EUR,31/12/2025,AutomationTestDetails,1000

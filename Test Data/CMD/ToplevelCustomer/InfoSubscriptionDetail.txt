@@ -1,0 +1,17 @@
+{
+"ColcoCode": "086",
+    "UserName": "TestAutomation",
+"EntityTypeId": 10,
+"ExternalReference": "InfoSubscDet01ph601368",
+"AccountNumber": "PH08601368",
+    "EntityBody": {
+"InfoSubscriptionId": "InfoSubscr01ph601368",
+"DistributionMethodId": "5",
+"InvoiceOutputTypeId": "6",
+"ContactId": "subcontact01ph601368",
+"IsPrimary": true,
+"SuppressContact": true,
+"AlternativeDistributionMethodId": 1,
+"IsActive": false
+    }
+}

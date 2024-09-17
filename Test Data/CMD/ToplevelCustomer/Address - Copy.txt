@@ -1,0 +1,21 @@
+{
+"ColcoCode": "086",
+"UserName": "Kanamarlapudi,Venkata",
+"EntityTypeId": 4,
+    "ExternalReference": "01-9909-4b94-b74d-b104",
+"AccountNumber": "PH08601003",
+    "EntityBody": {
+"AddressTypeId": [0],
+"AddressLine1": "Automation Test Estate",
+"AddressLine2": "Automation Town",
+"AddressLine3": "Automation Hills",
+"City": "Test City",
+"CountryId": 22,
+"RegionId": 1234,
+"PostalCode": "098890",
+"Telephone": "+333333333",
+"IndustrialClassId": 2,
+"Fax": "9999999",
+        "IsActive": false
+    }
+}

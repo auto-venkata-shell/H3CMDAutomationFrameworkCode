@@ -1,0 +1,15 @@
+{
+"ColcoCode": "086",
+    "UserName": "Automation.Test",
+"EntityTypeId": 13,
+"ExternalReference": "CPayment01ph601368",
+"AccountNumber": "PH08601368",
+    "EntityBody": {
+"CreditLimit": "200000",
+"PaymentMethodId": 20,
+"PaymentTermsId": 120,
+"InvoiceLevelPayDetail": false
+    }
+}
+
+

@@ -1,0 +1,6 @@
+Execute,customerERP_id,cardType,cardDelPoint,countryName,address,region,postalCode,email,phoneNo,embossType,embossName,DelOneTimeUse,PinOneTimeUse,city,region
+Yes_Pilipinas,NL00000001,Driver Card,1,Philippines,Test AC 32,Amsterdam,1012 GJ,superuser001shell@gmail.com,+319876543210,Driver,DRIVER001,1,1,Amsterdam,Philippines
+Yes_Belgian,NL00000001,Driver Card,1,Netherlands,Test AC 32,Amsterdam,1012 GJ,superuser001shell@gmail.com,+319876543210,Driver,DRIVER001,1,1,Amsterdam,Netherlands
+Yes_Nederland,NL00000001,Driver Card,1,Netherlands,Test AC 32,Amsterdam,1012 GJ,superuser001shell@gmail.com,+319876543210,Driver,DRIVER001,1,1,Amsterdam,Netherlands
+Yes_Hong Kong,NL00000001,Driver Card,1,Netherlands,Test AC 32,Amsterdam,1012 GJ,superuser001shell@gmail.com,+319876543210,Driver,DRIVER001,1,1,Amsterdam,Netherlands
+Yes_Thailand,NL00000001,Driver Card,1,Netherlands,Test AC 32,Amsterdam,1012 GJ,superuser001shell@gmail.com,+319876543210,Driver,DRIVER001,1,1,Amsterdam,Netherlands

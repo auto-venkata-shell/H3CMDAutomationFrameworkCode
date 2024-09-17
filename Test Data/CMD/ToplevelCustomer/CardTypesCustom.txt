@@ -1,0 +1,13 @@
+{
+"ColcoCode": "018",
+  "UserName": "Test.Automation",
+"EntityTypeId": 12,
+"ExternalReference": "CardTypes01ph601363",
+"AccountNumber": "PH08601363",
+   "EntityBody": {"CustomerCardType":
+   [
+      newCardTypevals
+    ]
+   }
+}
+	

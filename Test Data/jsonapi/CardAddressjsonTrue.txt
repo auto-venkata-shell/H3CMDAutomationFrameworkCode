@@ -1,0 +1,13 @@
+{
+  "UpdateCardRenewalAddress": null,
+  "MessageRequest": {
+"UserName": "Venkata4",
+    "UserCulture": "en-GB",
+"ColCoID": 85,
+    "RequestID": "16220374-0129-4730-8493-733739562085"
+  },
+"CustomerID": 2,
+"CardID": 1224,
+  "UseCustomerDefaultAddress": true
+
+}

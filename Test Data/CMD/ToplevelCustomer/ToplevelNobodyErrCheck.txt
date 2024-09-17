@@ -1,0 +1,8 @@
+{
+    "ColcoCode": "086",
+    "UserName": "Automation,Test",
+"EntityTypeId": 2,
+    "ExternalReference": "01-9908-4b94-b74d-b103",
+"AccountNumber": "PH08601334",
+   "EntityBody": ""
+}

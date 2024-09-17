@@ -1,0 +1,12 @@
+{
+"ColcoCode": "086",
+    "UserName": "TestAutomation",
+"EntityTypeId": 11,
+"ExternalReference": "InfoSubscLR01ph601368",
+"AccountNumber": "PH08601368",
+    "EntityBody": {
+"InfoSubscriptionId": "InfoSubscr01ph601368",
+"SubscriptionType": false,
+"LegislativeRegionId": 1
+    }
+}

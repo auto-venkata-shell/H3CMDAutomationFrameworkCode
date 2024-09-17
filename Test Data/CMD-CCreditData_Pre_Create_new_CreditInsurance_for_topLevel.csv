@@ -1,0 +1,6 @@
+Execute,Environment,Customer_ERP,Address,City,Region,Zip_Code,Telephone
+Yes_Pilipinas,GFN,ID00000080,Test Automation address Pilipinas,PilpCity,Abra,605000,9876543210
+Yes_Belgian,GFN,ID00000080,Test Automation address Belgian,BelgCity,Belgium,605000,9876543210
+Yes_Nederland,GFN,ID00000080,Test Automation address Nederland,NedCity,#1,605000,9876543210
+Yes_Hong Kong,GFN,ID00000080,Test Automation address Hong Kong,HKCity,#1,605000,9876543210
+Yes_Thailand,GFN,ID00000080,Test Automation address Thailand,ThCity,#1,605000,9876543210

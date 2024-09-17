@@ -1,0 +1,30 @@
+{
+  "CSDBatchImport": [
+    {
+"IssuingCountry": 086,
+"SequenceNumber": 34,
+"RecordCount": 1,
+"FileCreationDate": "T10:44:40Z",
+           "CardSecurityData": [
+           {
+              "EventType": "F",
+"CardID": 151494,
+              "CardFulfilmentData": [
+                {
+                  "RFID_UID": "5678456711167",
+                  "EMA_ID": "8888DFTY190497CVFL",
+                  "EVPrintedNumber": "36729045",
+"DispatchCompanyID": 1,
+                  "DispatchTrackingReference": "SNBT383908123567",
+                  "ActualProductionDate": "2023-04-09T15:30:43Z",
+"DispatchDate": "T10:44:40Z"
+                }
+              ]
+
+            }
+
+
+      ]
+    }
+  ]
+}

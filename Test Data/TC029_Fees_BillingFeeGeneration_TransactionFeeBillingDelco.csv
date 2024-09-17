@@ -1,0 +1,7 @@
+Execute,strDateEff,feeType,customerERP_id,waiveOnPastDue,waiveIfCancelled,FeeTypeID
+Yes_Pilipinas,2022-01-01,Card Transaction Fee – Billing Delco,PH50001806,0,0
+Yes_Belgian,2022-01-01,Card Transaction Fee – Billing Delco,PH50001806,0,0
+Yes_Nederland,2022-01-01,Card Transaction Fee – Billing Delco,PH50001806,0,0
+Yes_Hong Kong,2022-01-01,Card Transaction Fee – Billing Delco,PH50001806,0,0
+Yes_Thailand,2022-01-01,Card Transaction Fee – Billing Delco,PH50001806,0,0
+

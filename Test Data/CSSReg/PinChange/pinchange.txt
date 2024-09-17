@@ -1,0 +1,15 @@
+{
+"PANID": 16929924,
+"PINVersion": 2,
+"PVV": 0002,
+"PVKi": 155,
+"EventType": "W",
+"PINModifiedDate": "2023-11-29T19:10:44Z",
+  "MessageRequest": {
+    "UserName": "AUTOMATIONTEST",
+    "UserCulture": "en-GB",
+"IssuingCountryNumber": "086",
+    "RequestID": "55000001-0001-0001-0001-000000000001",
+"ColCoID": "1"
+  }
+}

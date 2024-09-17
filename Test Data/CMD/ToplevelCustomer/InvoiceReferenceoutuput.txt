@@ -1,0 +1,12 @@
+{
+  "ColcoCode": "086",
+  "UserName": "Nithya.Krishnasamy",
+  "EntityTypeId": 8,
+  "ExternalReference": "ABC798557978001",
+  "AccountNumber": "PH03001002",
+  "EntityBody": {
+    "InvoiceReference": "InvoiceRefPH03001002",
+    "DateEffective": "2023-06-06",
+    "DateTerminated": "2099-05-31"
+    }
+}

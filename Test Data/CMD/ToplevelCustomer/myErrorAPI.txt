@@ -1,0 +1,10 @@
+{  
+  "ColcoCode": "018",
+  "UserName": "Nithya.Krishnasamy",  
+    "Filters": {
+      "StartDateTime":"2023-01-01 09:13:04.240",
+      "EndDateTime":"2023-06-28 05:37:19.887"   
+    },
+    "Page":null,
+   "PageSize": null
+}
