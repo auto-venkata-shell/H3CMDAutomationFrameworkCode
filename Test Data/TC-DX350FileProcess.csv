@@ -1,0 +1,7 @@
+Execute,TempFileName,InboundCountry,FilePrefixName
+Yes_Indonesia,DX350_Indonesia.txt,ID,DX350_00000005_085
+Yes_Pilipinas,DX350_Pilipinas.txt,PH,DX350_00000002_086
+Yes_Belgian,DX350_Belgian.txt,BE,DX350_00000002_009
+Yes_Nederland,DX350_Nederland.txt,NL,DX350_00000002_018
+Yes_Hong Kong,DX350_Hong Kong.txt,HK,DDX350_00000002_082
+Yes_Thailand,DX350_Thailand.txt,TH,DX350_00000002_088

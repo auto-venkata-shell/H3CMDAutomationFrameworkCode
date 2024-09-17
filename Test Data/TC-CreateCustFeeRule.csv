@@ -1,0 +1,8 @@
+Execute,CustERP,NoOfSerchItems,searchitem1,searchitem2,searchitem3
+Yes_Pilipinas_SPRINTQA,ID00000040,1,Card Transaction Fee,Card event Fee,Late Payment Fee
+Yes_Belgian_SPRINTQA,ID00000040,1,Card Transaction Fee,Card event Fee,Late Payment Fee
+Yes_Nederland_SPRINTQA,ID00000040,1,AT/P011/D008/P1.23,Card event Fee,Late Payment Fee
+Yes_Hong Kong_SPRINTQA,ID00000040,1,Card Transaction Fee,Card event Fee,Late Payment Fee
+Yes_Thailand_SPRINTQA,ID00000040,1,Card Transaction Fee,Card event Fee,Late Payment Fee
+Yes_Pilipinas_RELEASEQA,ID00000040,1,Card Transaction Fee Test,Card Event Fee,Late Payment Fee
+Yes_Eastern_RELEASEQA,ID00000040,1,SG/P032/D087/Card Transaction Fee,Card Event Fee,Late Payment Fee

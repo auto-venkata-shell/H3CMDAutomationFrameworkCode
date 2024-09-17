@@ -1,0 +1,7 @@
+Execute,Environment,LOB,Full_Name,Short_Name,Trading_Name,Language,LegalEntity,Registration_Number,VAT,Band,Marketing_Segmentation,Price_Profile,Fee_Group_Name,Acquisition_Channel,Customer_Classification,Credit_Limit,bilingLang
+Yes_Pilipinas,GFN,CRT,Test Auto Cust 32,Test AC 32,Test Auto Cust 32,English,#2,10000033,12336690501,Platinum,Private,PH ShellFleetApp 2,PH ShellFleetApp 2,Maintained in CRM,10057 Fleet,200000,
+Yes_Belgian,GFN,CRT,Test Auto Cust 32,Test AC 32,Test Auto Cust 32,English,#2,10000033,12336690501,Platinum,National CRT,Default PriceProfile,BE Default FeeGroup,Maintained in CRM,10057 Fleet,200000,English
+Yes_Nederland,GFN,CRT,Test Auto Cust 32,Test AC 32,Test Auto Cust 32,English,#2,10000033,12336690501,Platinum,National CRT,Default Profile,NL ShellFleetApp 2,Maintained in CRM,10057 Fleet,200000,English
+Yes_Hong Kong,GFN,CRT,Test Auto Cust 32,Test AC 32,Test Auto Cust 32,English,#2,10000033,12336690501,Platinum,National CRT,#1,#1,Maintained in CRM,10057 Fleet,200000,English
+Yes_Thailand,GFN,CRT,Test Auto Cust 32,Test AC 32,Test Auto Cust 32,English,#2,10000033,12336690501,Platinum,National CRT,#1,#1,Maintained in CRM,10057 Fleet,200000,English
+Yes_Eastern,GFN,CRT,Test Auto Cust 32,Test AC 32,Test Auto Cust 32,English,#2,10000033,12336690501,Platinum,Private,SG ShellFleetApp 2,SG ShellFleetApp 2,Maintained in CRM,10057 Fleet,200000,English

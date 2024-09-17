@@ -1,0 +1,15 @@
+{
+"ColcoCode": "086",
+    "UserName": "TestAutomation",
+"EntityTypeId": 6,
+"ExternalReference": "InfoSubscr02ph601366",
+"AccountNumber": "PH08601366",
+    "EntityBody": {
+"BillingInfoProviderId": 4,
+"RunFrequencyTypeId": "10",
+"BillingFrequencyId": "40",
+"EffectiveDate": "2024-03-06",
+"TerminatedDate": "2025-03-06",
+        "SubscriptionType": true
+    }
+}

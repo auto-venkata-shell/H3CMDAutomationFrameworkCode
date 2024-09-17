@@ -1,0 +1,30 @@
+{
+  "CSDBatchImport": [
+    {
+"IssuingCountry": "086",
+"SequenceNumber": 115,
+"RecordCount": 1,
+"FileCreationDate": "2023-11-29T17:16:38Z",
+           "CardSecurityData": [
+            {
+              "EventType": "C",
+"CardID": "152684",
+              "CardHSMData": [
+                {
+"PAN_ID": "16929900",
+                  "PVV": 1,
+                  "PVKi": 154,
+                  "CVKi": 181,
+                  "CVKi2": 201,
+                  "PINVersion": 1,
+"ReceivedDate": "2023-11-29T17:16:38Z"
+                }
+              ]
+            }
+
+      ]
+    }
+  ]
+}
+
+

@@ -1,0 +1,6 @@
+Execute,feeType,freq,productGroup,feeBasis,volInclRate,waiveOnPastDue,waiveIfCancelled,minValue,maxValue,strCurrency
+Yes_Pilipinas,Card Event Fee,Daily (all days),Card related fees,Currency Per Unit,,0,0,-9999,9999,EURO
+Yes_Belgian,Card Event Fee,Daily (all days),Card related fees,Currency Per Unit,,0,0,-9999,9999,EURO
+Yes_Nederland,Card Event Fee,Daily (all days),Card related fees,Currency Per Unit,,0,0,-9999,9999,EURO
+Yes_Hong Kong,Card Event Fee,Daily (all days),Card related fees,Currency Per Unit,,0,0,-9999,9999,EURO
+Yes_Thailand,Card Event Fee,Daily (all days),Card related fees,Currency Per Unit,,0,0,-9999,9999,EURO

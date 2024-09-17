@@ -1,0 +1,13 @@
+{
+"ColcoCode": "086",
+  "UserName":"TestAutomation",
+"EntityTypeId": 15,
+"ExternalReference": "CCreditDatau02ph601367",
+"AccountNumber": "PH08601367",
+   "EntityBody": 
+{
+"CreditSystemCustomerNumber": "TEST2601367",
+"CreditScore": 3
+}
+}
+	

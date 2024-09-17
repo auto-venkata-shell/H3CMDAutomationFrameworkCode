@@ -1,0 +1,42 @@
+{
+  
+  "MessageRequest": {
+   "UserName":"SIRi",
+    "UserCulture":"en_GB",
+     "ColCoID":1,
+    "RequestID":"00000000-0000-0000-0000-000000000000"
+  },
+  "CustomerID": 1721,
+  "CardTypeID": 1,
+  "TokenTypeID":3,
+  "ExpiryDate": "",
+  "CardReissueTypeID": 1,
+  "PurchaseCategoryID": 3 ,
+  "OdometerPromptReqd": 324324,
+  "CustomerRefPromptReqd": true,
+  "ExternalReference": "string",
+
+  "CardCategory": {
+    "CardCategoryID": 3,
+    "VehicleRegistration": "12345678",
+    "DriverName": "TEST SIRI",
+    "BearerDescription": "OPENNiki5599",
+    "EmbossText": "embosstext",
+    "isVRNEmbossed": true,
+    "isDriverEmbossed": true,
+    "isBearerEmbossed": true,
+    "EmbossingID": 4
+  },
+  "PINTypeOptions": {
+    "PINTypeID": 3,
+    "PINChangeAllowedByCardholder": true,
+    "EncryptedPIN": {
+      "SelfSelectedPINKeyID": "Autotest",
+      "SelfSelectedPINLibraryVersion":"Autotest",
+      "SelfSelectedPINSessionDetails": "Autotest",
+      "SelfSelectedEncryptedPIN": "Autotest"
+    }
+  },
+
+  "PINAdviceType": 3
+}

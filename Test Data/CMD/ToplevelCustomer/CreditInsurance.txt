@@ -1,0 +1,12 @@
+{
+"ColcoCode": "086",
+    "UserName": "Test Automation",
+"EntityTypeId": 14,
+"ExternalReference": "CreditInsu05ph601367",
+"AccountNumber": "PH08601367",
+    "EntityBody": {
+"CreditLimit": "19000",
+"CreditRatingId": "1",
+"DateEffective": "2024-02-27"
+    }
+}

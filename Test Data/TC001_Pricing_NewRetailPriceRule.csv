@@ -1,0 +1,7 @@
+Execute,desc,locScope,proScope,refPrice,priceRuleBasis,lstcurrency,funder,IsCustomer,discount,priceRuleCat,cmyName
+Yes_Pilipinas,PriceRule,Pilipinas Shell Petroleum Corp,All Fuels,Retail Price,Currency Per Unit,EURO,Client,1,Gross Price,Standard Pricing,Pilipinas Shell Petroleum Corp
+Yes_Belgian,PriceRule,Pilipinas Shell Petroleum Corp,All Fuels,Retail Price,Currency Per Unit,EURO,Client,1,Gross Price,Standard Pricing,Pilipinas Shell Petroleum Corp
+Yes_Nederland,PriceRule,A1 MOTORWAY,All Fuels,Retail Price,Currency Per Unit,EURO,Client,1,Gross Price,Standard Pricing,P&O FERRIES - Netherlands
+Yes_Hong Kong,PriceRule,Pilipinas Shell Petroleum Corp,All Fuels,Retail Price,Currency Per Unit,EURO,Client,1,Gross Price,Standard Pricing,Pilipinas Shell Petroleum Corp
+Yes_Thailand,PriceRule,Pilipinas Shell Petroleum Corp,All Fuels,Retail Price,Currency Per Unit,EURO,Client,1,Gross Price,Standard Pricing,Pilipinas Shell Petroleum Corp
+

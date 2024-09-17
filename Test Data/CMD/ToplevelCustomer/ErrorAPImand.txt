@@ -1,0 +1,10 @@
+{  
+  "ColcoCode": "",
+  "UserName": "",  
+    "Filters": {
+      "StartDateTime":"",
+      "EndDateTime":""   
+    },
+    "Page":1,
+   "PageSize": 1000
+}       

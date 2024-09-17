@@ -1,0 +1,7 @@
+Execute,TempFileName,InboundCountry,FilePrefixName
+Yes_Indonesia,DX602_Indonesia.txt,ID,DX602_CREDIT_Data_085_000000
+Yes_Pilipinas,DX602_Pilipinas.txt,PH,DX602_CREDIT_Data_086_000000
+Yes_Belgian,DX602_Belgian.txt,BE,DX602_CREDIT_Data_009_000000
+Yes_Nederland,DX602_Nederland.txt,NL,DX602_CREDIT_Data_018_000000
+Yes_Hong Kong,DX602_Hong Kong.txt,HK,DX602_CREDIT_Data_082_000000
+Yes_Thailand,DX602_Thailand.txt,TH,DX602_CREDIT_Data_088_000000

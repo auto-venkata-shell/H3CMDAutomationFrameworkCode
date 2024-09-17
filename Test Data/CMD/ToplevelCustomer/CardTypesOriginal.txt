@@ -1,0 +1,17 @@
+  
+{
+  "ColcoCode": "086",
+  "UserName": "Nithya.Krishnasamy",
+  "EntityTypeId": 12,
+  "ExternalReference": "5a3af1fa-9907-4b94-b21302",
+  "AccountNumber": "PH4001007",
+   "EntityBody": {"CustomerCardType":
+   [
+       {"CardTypeId":1,
+       "IsFixedReissue":true},
+       {"CardTypeId":2,
+       "IsFixedReissue":true}
+    ]
+   }
+}
+	

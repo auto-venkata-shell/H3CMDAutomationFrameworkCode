@@ -1,0 +1,27 @@
+{
+"DeliverPINTo":{
+    "PIN_ContactName":"TESTAUTO",
+    "PIN_ContactTitle": "Mr",
+    "PIN_CompanyName":"Shell",
+    "PIN_AddressLine":"M-120,Connaughtplace",
+    "PIN_ZipCode":"110001",
+    "PIN_City":"Bangalore",
+    "PIN_RegionID": 0,
+    "PIN_CountryID":1,
+    "EmailAddress":"testautomation@gmail.com",
+    "PhoneNumber":"+95454534",
+    "SaveForPINReminder": true},
+"MessageRequest":{
+    "UserName":"AUTOMATION TEST",
+    "UserCulture":"en_GB",
+    "ColCoID":1,
+    "RequestID":"00000001-0001-0001-0001-000000000001"
+ },
+ "CustomerID":1723,
+ "CardID":148747,
+ "PANID":null,
+ "CardPan":"7077861008251001972",
+ "ExpityDate":2608,
+ "PINAdviceTypeID" : 1,
+ "PINContactTypeID":4
+}

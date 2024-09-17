@@ -1,0 +1,50 @@
+[
+{
+  "UpdateCardRenewalAddress": {
+"Card_ContactName": "Venkata3",
+    "Card_ContactTitle": "Mr",
+    "Card_CompanyName": "shell",
+    "Card_AddressLine": "4,98, Premnagar",
+    "Card_ZipCode": "839922",
+    "Card_City": "Karimnagar",
+"Card_RegionID": "2",
+"Card_CountryID": "85",
+    "PhoneNumber": "+317394855932",
+    "EmailAddress": "sai98@gmail.com"
+  },
+  "MessageRequest": {
+"UserName": "Venkata3",
+    "UserCulture": "en-GB",
+"ColCoID": 85,
+    "RequestID": "16220374-0129-4730-8493-733739562085"
+  },
+"CustomerID": 2,
+"CardID": 1224,
+  "UseCustomerDefaultAddress": false
+
+},
+{
+  "UpdateCardRenewalAddress": {
+"Card_ContactName": "Venkata4",
+    "Card_ContactTitle": "Mr",
+    "Card_CompanyName": "shell",
+    "Card_AddressLine": "4,98, Premnagar",
+    "Card_ZipCode": "839922",
+    "Card_City": "Karimnagar",
+"Card_RegionID": "2",
+"Card_CountryID": "85",
+    "PhoneNumber": "+317394855932",
+    "EmailAddress": "sai98@gmail.com"
+  },
+  "MessageRequest": {
+"UserName": "Venkata3",
+    "UserCulture": "en-GB",
+"ColCoID": 85,
+    "RequestID": "16220374-0129-4730-8493-733739562085"
+  },
+"CustomerID": 3,
+"CardID": 1224,
+  "UseCustomerDefaultAddress": false
+
+}
+]

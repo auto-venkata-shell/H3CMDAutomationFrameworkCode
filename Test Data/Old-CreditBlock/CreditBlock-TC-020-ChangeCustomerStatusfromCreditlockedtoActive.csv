@@ -1,0 +1,2 @@
+Execute,CustomerNo,Customerstatus1,Customerstatus2,Exposure_Flag,Job_name,Table_name,cmy_CreditLimitIndicator,cust_CreditLimitIndicator,cust_OverridesApplied,DB_name,customerERP_id,CreditMgt_Flag,Amount
+Yes,11,44,1,,5004,CustomerCreditManagement,TRUE,TRUE,,SFN_SHELL_SPRINTQA_ID_OLTP,ID00000001,0,160

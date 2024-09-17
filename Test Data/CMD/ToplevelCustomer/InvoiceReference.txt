@@ -1,0 +1,12 @@
+{
+"ColcoCode": "086",
+  "UserName": "TestAutomation",
+"EntityTypeId": 8,
+"ExternalReference": "InvoiceRef01ph601368",
+"AccountNumber": "PH08601368",
+  "EntityBody": {
+"InvoiceReference": "SUBINVOICEREFTEXT",
+"DateEffective": "2024-03-02",
+"DateTerminated": "9999-12-31"
+    }
+}

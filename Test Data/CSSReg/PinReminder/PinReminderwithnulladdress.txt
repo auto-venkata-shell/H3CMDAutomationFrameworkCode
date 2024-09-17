@@ -1,0 +1,28 @@
+{
+"DeliverPINTo":{
+    "PIN_ContactName":null,
+    "PIN_ContactTitle": null,
+    "PIN_CompanyName":"null",
+    "PIN_AddressLine":null,
+    "PIN_ZipCode":null,
+    "PIN_City":null,
+    "PIN_RegionID": null,
+    "PIN_CountryID":null,
+    "EmailAddress":"testautomation@gmail.com",
+    "PhoneNumber":"+95454534",
+    "SaveForPINReminder": false
+},
+"MessageRequest":{
+    "UserName":"AUTOMATION TEST",
+    "UserCulture":"en_GB",
+"ColCoID": 1,
+    "RequestID":"00000001-0001-0001-0001-000000000001"
+ },
+"CustomerID": 4207,
+"CardID": 152697,
+"PANID": 16929913,
+"CardPan": 7077861008342000199,
+"ExpiryDate": 2802,
+"PINAdviceTypeID": 2,
+"PINContactTypeID": 4
+}

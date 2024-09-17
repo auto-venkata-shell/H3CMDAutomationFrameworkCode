@@ -1,0 +1,24 @@
+{
+  "UpdateCardRenewalAddress": {
+"Card_ContactName": "AutomationTest",
+    "Card_ContactTitle": "Mr",
+    "Card_CompanyName": "shell",
+    "Card_AddressLine": "4,98, Premnagar",
+    "Card_ZipCode": "839922",
+    "Card_City": "Karimnagar",
+"Card_RegionID": "2",
+"Card_CountryID": 22,
+    "PhoneNumber": "+317394855932",
+    "EmailAddress": "autoTest@gmail.com"
+  },
+  "MessageRequest": {
+"UserName": "Venkata3",
+    "UserCulture": "en-GB",
+"ColCoID": 1,
+    "RequestID": "16220374-0129-4730-8493-733739562085"
+  },
+"CustomerID": 4207,
+"CardID": 152704,
+  "UseCustomerDefaultAddress": false
+
+}

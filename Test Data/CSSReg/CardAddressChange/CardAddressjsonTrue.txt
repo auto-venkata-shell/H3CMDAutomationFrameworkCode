@@ -1,0 +1,13 @@
+{
+  "UpdateCardRenewalAddress": null,
+  "MessageRequest": {
+"UserName": "AutomationTest",
+    "UserCulture": "en-GB",
+"ColCoID": 1,
+    "RequestID": "16220374-0129-4730-8493-733739562085"
+  },
+"CustomerID": 4207,
+"CardID": 152705,
+  "UseCustomerDefaultAddress": true
+
+}

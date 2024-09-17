@@ -1,0 +1,56 @@
+{
+  
+  "MessageRequest": {
+   "UserName":"AUTOMATION TEST",
+    "UserCulture":"en_GB",
+"ColCoID": 1,
+    "RequestID":"00000001-0001-0001-0001-000000000001"
+  },
+"CustomerID": 4207,
+"CardTypeID": 1,
+"TokenTypeID": 3,
+  "ExpiryDate": "",
+  "CardReissueTypeID": 1,
+  "PurchaseCategoryID": 3 ,
+  "OdometerPromptReqd": 324324,
+  "CustomerRefPromptReqd": true,
+  "ExternalReference": "string",
+
+  "CardCategory": {
+"CardCategoryID": 2,
+    "VehicleRegistration": "12345678",
+    "DriverName": "TEST AUTO",
+    "BearerDescription": "OPENNiki5599",
+    "EmbossText": "embosstext",
+    "isVRNEmbossed": true,
+    "isDriverEmbossed": true,
+    "isBearerEmbossed": true,
+"EmbossingID": 2
+  },
+  "PINTypeOptions": {
+"PINTypeID": 1,
+    "PINChangeAllowedByCardholder": false,
+    "EncryptedPIN": {
+      "SelfSelectedPINKeyID": "test",
+      "SelfSelectedPINLibraryVersion":"test",
+      "SelfSelectedPINSessionDetails": "test",
+      "SelfSelectedEncryptedPIN": "test"
+    }
+  },
+
+  "DeliverCardToSpecificAddress": {
+        "Card_ContactName": "ATEST",
+        "Card_ContactTitle": "Mr",
+        "Card_CompanyName": "Shell",
+        "Card_AddressLine": "123 Testts",
+        "Card_ZipCode": "110001",
+        "Card_City": "Karnataka",
+        "Card_RegionID": 2,
+        "Card_CountryID": 22,
+        "PhoneNumber": "+916747363452",
+        "EmailAddress": "AutoTest@Shell.com",
+        "SaveForCardReissue": true
+    },
+  
+"PINAdviceType": 1
+}

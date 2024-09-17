@@ -1,0 +1,6 @@
+Execute,Environment,Customer_ERP,ColcoID,CardCatID,VehRegNo,isVRNval,PinTypeID,PinAdviceval
+Yes_Pilipinas,GFN,PH50001628,1,1,1234567890,true,3,3
+Yes_Belgian,GFN,ID00000080,1,1,1234567890,true,1,2
+Yes_Nederland,GFN,ID00000080,1,1,1234567890,true,1,2
+Yes_Hong Kong,GFN,ID00000080,1,1,1234567890,true,1,2
+Yes_Thailand,GFN,ID00000080,1,1,1234567890,true,1,2

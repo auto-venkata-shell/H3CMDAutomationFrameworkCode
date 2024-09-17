@@ -1,0 +1,6 @@
+Execute,feeType,freq,productGroup,product,feeBasis,volInclRate,waiveOnPastDue,waiveIfCancelled,minValue,maxValue,strCurrency,cmyName,fuelNetwork,SiteGroup,SiteID,prodGroup,RProduct,feeValue,strDateEff
+Yes_Pilipinas,Bonus,Anniversary,Monetary Adjustment,Bonus diesel Economy Network Shell Netherlands,Currency Per Unit,Fee Rule Only,0,0,-9999,9999,EURO,,,,,All Fuels,1,0,2021-01-01
+Yes_Belgian,Bonus,Anniversary,Monetary Adjustment,Bonus diesel Economy Network Shell Belgium,Currency Per Unit,Fee Rule Only,0,0,-9999,9999,EURO,,,,,All Fuels,,10,2021-01-01
+Yes_Nederland,Bonus,Monthly - 1st,Monetary Adjustment,Bonus diesel Economy Network Shell Netherlands,Currency Per Unit,Fee Rule Only,0,0,-9999,9999,EURO,Shell Nederland Verkoopmij. BV,,,,All Fuels,,10,2021-01-01
+Yes_Hong Kong,Bonus,Anniversary,Monetary Adjustment,Bonus diesel Economy Network Shell Netherlands,Currency Per Unit,Fee Rule Only,0,0,-9999,9999,EURO,,,,,All Fuels,,10,2021-01-01
+Yes_Thailand,Bonus,Anniversary,Monetary Adjustment,Bonus diesel Economy Network Shell Netherlands,Currency Per Unit,Fee Rule Only,0,0,-9999,9999,EURO,,,,,All Fuels,,10,2021-01-01

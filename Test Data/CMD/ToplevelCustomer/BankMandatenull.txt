@@ -1,0 +1,16 @@
+{
+    "UserName": "Automation.Test",
+"ColcoCode": "086",
+"EntityTypeId": 9,
+"ExternalReference": "BankMandate05ph601362",
+"AccountNumber": "PH08601362",
+    "EntityBody": {
+"BankAccountId": "Bank03ForMan3ph601362",
+"DDAuthorizerName": "TestAutomation",
+        "DDReferenceNumber": null,
+"DDEffectiveDate": "2024-03-01",
+"DDCancelDate": "2025-03-01",
+"DDMandateTypeId": 3,
+"DDActive": "false"
+    }
+}

@@ -1,0 +1,20 @@
+{
+"ColcoCode": "086",
+"UserName": "AutomationTest1",
+"EntityTypeId": 4,
+"ExternalReference": "address02ph1368",
+"AccountNumber": "PH08601368",
+    "EntityBody": {
+"AddressTypeId": [2,3,4],
+"AddressLine1": "Automation Test Estate",
+"AddressLine2": "Automation Town",
+"AddressLine3": "Automation Hills",
+"City": "Test City",
+"CountryId": 22,
+"RegionId": 1,
+"PostalCode": "098890",
+"Telephone": "+3333333331351",
+"Fax": "9999999",
+"IsActive": "true"
+    }
+}
