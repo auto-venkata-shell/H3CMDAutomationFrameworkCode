@@ -1,0 +1,7 @@
+﻿<Properties>
+  <WatchEntry0 value="siteownerERPnumber" />
+  <WatchEntry1 value="Trim(childObj(i).getRoproperty(&quot;innertext&quot;) )" />
+  <WatchEntry2 value="objchild" />
+  <WatchEntry3 value="objchild" />
+  <WatchEntry4 value="fPath" />
+</Properties>
