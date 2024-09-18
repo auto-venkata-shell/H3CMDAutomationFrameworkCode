@@ -1,0 +1,28 @@
+{
+  "UpdateCardRenewalAddress": {
+    "Card_ContactName": "Siri",
+    "Card_ContactTitle": "Ms",
+    "Card_CompanyName": "shell",
+    "Card_AddressLine": "4/98,Prakashnagar",
+    "Card_ZipCode": "PO16 7GZ",
+    "Card_City": "Karimnagar",
+    "Card_RegionID":"138" ,
+    "Card_CountryID":"33" ,
+    "PhoneNumber": "",
+    "EmailAddress": "S@S.C.Com"
+  },
+  "MessageRequest": {
+    "UserName": "Siri",
+    "UserCulture": "en-GB",
+    "ColCoID": 1,
+    "RequestID": "10000000-0000-0000-0000-000000000085"
+  },
+  "CustomerID": 1723,
+  "CardID": 151342,
+  "UseCustomerDefaultAddress": false
+
+}
+
+
+  
+
