@@ -1,0 +1,15 @@
+{
+  "PANID": 16925963,
+  "PINVersion": 8,
+  "PVV": 1307,
+  "PVKi": 4,
+  "EventType": "W",
+  "PINModifiedDate": "2023-05-09T15:24:13Z",
+  "MessageRequest": {
+    "UserName": "CS",
+    "UserCulture": "en-GB",
+    "IssuingCountryNumber": "086",
+    "RequestID": "55000000-0000-0000-0000-000000000000",
+    "ColCoID": 1
+  }
+}
